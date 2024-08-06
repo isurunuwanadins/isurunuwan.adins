@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Sameera</h1>
-<h3 align="center">👨‍💻 Software Engineer | .NET Developer | Undergraduate | Senior IT Executive | Network & IT Specialist | Freelance | Social Media Marketer</h3>
+<h3 align="center">👨‍💻 Software Engineer | .NET Developer | Graduate | Senior IT Executive | Network & IT Specialist | Freelance | Social Media Marketer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isurunuwanadins&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
